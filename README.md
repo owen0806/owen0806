@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=owen0806&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=owen0806&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=owen0806&theme=transparent&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=owen0806&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=owen0806&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=owen0806&theme=transparent&layout=compact)
 
 </div>
 
