@@ -1,7 +1,7 @@
-# Yan-Cheng, Lin (Owen)
+# Yan-Cheng Lin (Owen)
 
 ## About me
-- **CSE Student** at National Taiwan Ocean University (NTOU)
+- **CSE Student** at NTOU
 - **Focus:** Backend Development, System Design, and DevOps Automation
 - **Email:** owen080614@gmail.com
 
