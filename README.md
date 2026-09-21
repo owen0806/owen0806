@@ -6,8 +6,9 @@
 - **Email:** owen080614@gmail.com
 
 ## Tech Stack
-- **Languages:** Java, Python, TypeScript/JavaScript
-- **Backend:** Spring Boot, FastAPI, Microservices
+
+- **Languages:** Java, Python, TypeScript / JavaScript
+- **Backend:** Spring Boot, FastAPI, Microservices Architecture
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Tools & DevOps:** Docker, GCP, GitHub Actions, CI/CD
 
