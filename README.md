@@ -1,15 +1,15 @@
 # Yan-Cheng Lin (Owen)
 
 ## About me
-- **CSE Student** at NTOU
-- **Focus:** Backend Development, System Design, and DevOps Automation
+- **CS Student** at NYCU
+- **Focus:** Agentic AI, System Design and DevOps Automation
 - **Email:** owen080614@gmail.com
 
 ## Tech Stack
 - **Languages:** Java, Python, TypeScript/JavaScript
-- **Backend:** Spring Boot, FastAPI, Microservices, PostgreSQL, MongoDB
+- **Backend:** Spring Boot, FastAPI, Microservices
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Tools & DevOps:** Git, Docker, GitHub Actions, CI/CD
+- **Tools & DevOps:** Docker, GCP, GitHub Actions, CI/CD
 
 <!-- ## GitHub Status
 
